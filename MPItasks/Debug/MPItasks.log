@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\mpihw\mpitasks\mpitasks\source.cpp(420): warning C4101: 'resultMin': unreferenced local variable
+c:\mpihw\mpitasks\mpitasks\source.cpp(421): warning C4101: 'resultMax': unreferenced local variable
+  MPItasks.vcxproj -> C:\MPIHW\MPItasks\Debug\MPItasks.exe
